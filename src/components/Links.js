@@ -4,7 +4,6 @@ import { TYPOGRAPHY, SPACING } from "../styles/constants"
 import LinkCard from "../components/LinkCard"
 
 const Container = styled.div`
-  min-height: 90vh;
   height: 100%;
   margin: 0 ${SPACING.main.major};
 

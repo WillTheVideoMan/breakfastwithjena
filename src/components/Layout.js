@@ -13,6 +13,9 @@ const GlobalStyle = createGlobalStyle`
       font-size: 20px;
     }
   }
+  html, body, #___gatsby, #gatsby-focus-wrapper{
+    height: 100%;
+  }
   body{
     margin: 0;
     background-color: black;
